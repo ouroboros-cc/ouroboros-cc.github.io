@@ -1,12 +1,13 @@
 ---
-layout:       post
-title:        "《JavaScript 二十年》推荐语"
-author:       "Hux"
+layout: post
+title: "《JavaScript 二十年》推荐语"
+author: "Hux"
 header-style: text
-catalog:      true
+catalog: true
+header-img: "img/post-bg-rwd.jpg"
 tags:
-    - Web
-    - JavaScript
+  - Web
+  - JavaScript
 ---
 
 > 雪碧（doodlewind）邀请我给[《JavaScript 二十年》](https://zhuanlan.zhihu.com/p/373065151) 写的推荐序。
