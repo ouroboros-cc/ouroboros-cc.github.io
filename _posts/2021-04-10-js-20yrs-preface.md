@@ -2,9 +2,9 @@
 layout: post
 title: "《JavaScript 二十年》推荐语"
 author: "Hux"
-header-style: text
 catalog: true
 header-img: "img/post-bg-rwd.jpg"
+header-mask: 0.4
 tags:
   - Web
   - JavaScript
